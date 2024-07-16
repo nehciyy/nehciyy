@@ -4,6 +4,16 @@
 - 🌟 Currently a final year student pursuing a Bachelor of Science (Honours) in Computer Science (Machine Learning and Artificial Intelligence) in University of London.
 - 🎓 Expected Graduation: September 2024.
 - 🌍 Based in Singapore.
+  
+## Contact Me
+<p>
+  <a href="mailto:yichen3728@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/chiangyichen">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
 ## Technical Stack
 
@@ -73,7 +83,3 @@
   <img src="https://img.shields.io/badge/Prompt%20Engineering-FFD166?style=for-the-badge&logo=prompt%20engineering&logoColor=black">
   <img src="https://img.shields.io/badge/Large%20Language%20Model-6D28D9?style=for-the-badge&logo=large%20language%20model&logoColor=white">
 </p>
-
-## Contact Me
-- 📧 Email: yichen3728@gmail.com
-- 🌐 LinkedIn: www.linkedin.com/in/chiangyichen
