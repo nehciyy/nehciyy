@@ -1,10 +1,9 @@
 # Welcome to My GitHub Profile! 👋
 
 ## About Me
-- 🌟 Currently a final year student pursuing a Bachelor of Science (Honours) in Computer Science (Machine Learning and Artificial Intelligence) in University of London.
-- 🎓 Expected Graduation: September 2024.
+- 🌟 Graduated with First Class Honors in Bachelor of Science (Honours) in Computer Science (Machine Learning and Artificial Intelligence) in University of London.
 - 🌍 Based in Singapore.
-  
+
 ## Contact Me
 <p>
   <a href="mailto:yichen3728@gmail.com">
@@ -19,6 +18,7 @@
 
 ### Programming Languages
 <p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -26,7 +26,6 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/c++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 </p>
 
@@ -37,9 +36,10 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 </p>
 
-### Containers
+### Containers & Orchestration
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
 </p>
 
 ### Cloud Computing Platform
@@ -69,9 +69,21 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </p>
 
-### API Development
+### API Development & Communication Protocols
 <p>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=grpc&logoColor=white">
+  <img src="https://img.shields.io/badge/Protocol%20Buffers-336791?style=for-the-badge&logo=protocolbuffers&logoColor=white">
+</p>
+
+### Monitoring & Observability
+<p>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
+</p>
+
+### Testing & Mocking
+<p>
+  <img src="https://img.shields.io/badge/Mockery-4EAA25?style=for-the-badge&logo=mockery&logoColor=white">
 </p>
 
 ### Machine Learning
